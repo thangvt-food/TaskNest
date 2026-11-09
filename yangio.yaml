@@ -1,0 +1,25 @@
+slug: tasknest
+name: TaskNest
+tagline: Quản lý task và tài liệu học tập trong một app
+url: https://thangvt-food.github.io/TaskNest/
+status: live
+visibility: public
+description: App React + TypeScript + Vite quản lý task, ghi chú và tài liệu học tập; có các file markdown mẫu và giao diện Tailwind.
+tags:
+  - quản-lý-task
+  - ghi-chú
+  - học-tập
+category: productivity
+tech:
+  - react
+  - vite
+  - typescript
+  - tailwindcss
+hosting: github-pages
+updated: '2026-07-08'
+version: 0.1.0
+icon: 🪺
+auth: none
+links:
+  repo: https://github.com/thangvt-food/TaskNest
+notes: Deploy GitHub Pages tại thangvt-food.github.io/TaskNest/.
